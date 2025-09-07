@@ -1,5 +1,7 @@
 # ofxstatement-be-ing 
 
+# Abandoned due to lack of time, unfortunately.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ING Belgium plugin for ofxstatement 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
