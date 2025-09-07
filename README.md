@@ -1,6 +1,7 @@
 # ofxstatement-be-ing 
 
 # Abandoned due to lack of time, unfortunately.
+Moved to [codeberg](https://codeberg.org/jbbandos/ofxstatement-be-ing) and archived.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ING Belgium plugin for ofxstatement 
